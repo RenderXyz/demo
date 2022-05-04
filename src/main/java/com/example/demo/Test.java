@@ -7,5 +7,6 @@ public class Test
         System.out.println("first");
         System.out.println("Second");
         System.out.println("third");
+        System.out.println("forth");
     }
 }
