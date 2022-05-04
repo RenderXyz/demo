@@ -9,5 +9,6 @@ public class Test
         System.out.println("third");
         System.out.println("forth");
         System.out.println("master test");
+        System.out.println("hot-fix test");
     }
 }
